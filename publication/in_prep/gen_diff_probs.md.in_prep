@@ -1,0 +1,34 @@
++++
+abstract = "Estimating the lighting of an environment is fundamental to many augmented reality, relighting and compositing applications. A common solution images mirrored spheres, called light probes, placed in the scene. It has been shown, however, that lighting can also be estimated (up to a frequency limit) from convex Lambertian objects. By factoring the effects of occlusion, we increase this frequency limit and reconstruct higher-frequency lighting content. Very little is known about how the shape of a diffuse object influences its effectiveness  as a light probe. Similarly, very few guidelines exist on how different shapes react to camera calibration errors which, in turn, can significantly influence the suitability of a problem for real-world applications. We propose an approach to determine the suitability of a diffuse object as a light probe. We define data-driven scores using an inverted light transport model, a set of representative sample environments, viewpoint variation, and camera calibration errors. This allows us to evaluate and choose the “best” 3D object from candidate library for use as real-time diffuse light probes. We develop develop simple and efficient approximations of the aforementioned suitability metric based on an analysis of the light transport matrix for a number of views of the object. We illustrate the usefulness of arbitrarily shaped diffuse light probes with an interactive mixed-reality system that relights digital assets according to environment light reconstructed on-the-fly from 3D-printed versions of our diffuse probes, including direct comparison of real and simulated relighting."
+
+abstract_short = " "
+
+authors = ["D Calian", "S McDonagh", "K Mitchell", "T Weyrich", "D Nowrouzezahrai", "J Kautz"]
+date = "2015-07-01"
+image_preview = ""
+math = true
+publication_types = ["1"]
+publication = "In preparation."
+publication_short = "In preparation."
+selected = false
+title = "General Diffuse Light Probes For Mixed-Reality Applications"
+
+[[url_custom]]
+name = "Paper"
+url = "papers/xxx.pdf"
+
+#[[url_custom]]
+#name = "Project page"
+#url = ""
+
+#[[url_custom]]
+#name = "Video"
+#url = "xxx"
+
+#Optional featured image (relative to `static/img/` folder).
+#[header]
+#image = "preview/synprior.png"
+#caption = "Synthetic Prior Design for Real-time Face Tracking"
+
+
++++
