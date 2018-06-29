@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Associate at Imperial College London on Research Associate at Imperial College London</title>
-    <link>https://www.doc.ic.ac.uk/~smcdonag/</link>
+    <link>https://smcdonagh.github.io/</link>
     <description>Recent content in Research Associate at Imperial College London on Research Associate at Imperial College London</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018 Steven McDonagh</copyright>
     <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~smcdonag/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Context-Sensitive Super-Resolution for Fast Fetal Magnetic Resonance Imaging</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/sr_for_svr/</link>
+      <link>https://smcdonagh.github.io/publication/sr_for_svr/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/sr_for_svr/</guid>
+      <guid>https://smcdonagh.github.io/publication/sr_for_svr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/emma/</link>
+      <link>https://smcdonagh.github.io/publication/emma/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/emma/</guid>
+      <guid>https://smcdonagh.github.io/publication/emma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Slice-to-Volume Transformation in Presence of Arbitrary Subject Motion</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/regfree_align/</link>
+      <link>https://smcdonagh.github.io/publication/regfree_align/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/regfree_align/</guid>
+      <guid>https://smcdonagh.github.io/publication/regfree_align/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PVR: Patch-to-Volume Reconstruction for Large Area Motion Correction of Fetal MRI</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/pvr/</link>
+      <link>https://smcdonagh.github.io/publication/pvr/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/pvr/</guid>
+      <guid>https://smcdonagh.github.io/publication/pvr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/talk/example-talk/</link>
+      <link>https://smcdonagh.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/talk/example-talk/</guid>
+      <guid>https://smcdonagh.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Noise Reduction on G‐Buffers for Monte Carlo Filtering</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/montecarlray_gbuffer_samp/</link>
+      <link>https://smcdonagh.github.io/publication/montecarlray_gbuffer_samp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/montecarlray_gbuffer_samp/</guid>
+      <guid>https://smcdonagh.github.io/publication/montecarlray_gbuffer_samp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/project/deep-learning/</link>
+      <link>https://smcdonagh.github.io/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/project/deep-learning/</guid>
+      <guid>https://smcdonagh.github.io/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -85,73 +85,73 @@
     
     <item>
       <title>External Project</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/project/example-external-project/</link>
+      <link>https://smcdonagh.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/project/example-external-project/</guid>
+      <guid>https://smcdonagh.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Prior Design for Real-time Face Tracking</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/synprior_face/</link>
+      <link>https://smcdonagh.github.io/publication/synprior_face/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/synprior_face/</guid>
+      <guid>https://smcdonagh.github.io/publication/synprior_face/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-Time Multi-View Facial Capture with Synthetic Training</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/multiview_syn_train/</link>
+      <link>https://smcdonagh.github.io/publication/multiview_syn_train/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/multiview_syn_train/</guid>
+      <guid>https://smcdonagh.github.io/publication/multiview_syn_train/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Polynomial Rendering</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/adaptpolyrend/</link>
+      <link>https://smcdonagh.github.io/publication/adaptpolyrend/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/adaptpolyrend/</guid>
+      <guid>https://smcdonagh.github.io/publication/adaptpolyrend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fusing 100’s of 3D Point Clouds of Objects</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/fusing100sptclouds/</link>
+      <link>https://smcdonagh.github.io/publication/fusing100sptclouds/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/fusing100sptclouds/</guid>
+      <guid>https://smcdonagh.github.io/publication/fusing100sptclouds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laminar and Dorsoventral Molecular Organization of the Medial Entorhinal Cortex Revealed by Large-scale Anatomical Analysis of Gene Expression</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/mec_gene_expr/</link>
+      <link>https://smcdonagh.github.io/publication/mec_gene_expr/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/mec_gene_expr/</guid>
+      <guid>https://smcdonagh.github.io/publication/mec_gene_expr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive light source position estimation for augmented reality with an RGB-D camera</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/light_est_cavw/</link>
+      <link>https://smcdonagh.github.io/publication/light_est_cavw/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/light_est_cavw/</guid>
+      <guid>https://smcdonagh.github.io/publication/light_est_cavw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying semi-synchronised task farming to large-scale computer vision problems</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/semisync_taskfarm/</link>
+      <link>https://smcdonagh.github.io/publication/semisync_taskfarm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/semisync_taskfarm/</guid>
+      <guid>https://smcdonagh.github.io/publication/semisync_taskfarm/</guid>
       <description></description>
     </item>
     

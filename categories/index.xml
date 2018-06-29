@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Research Associate at Imperial College London</title>
-    <link>https://www.doc.ic.ac.uk/~smcdonag/categories/</link>
+    <link>https://smcdonagh.github.io/categories/</link>
     <description>Recent content in Categories on Research Associate at Imperial College London</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018 Steven McDonagh</copyright>
     
-	<atom:link href="https://www.doc.ic.ac.uk/~smcdonag/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smcdonagh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

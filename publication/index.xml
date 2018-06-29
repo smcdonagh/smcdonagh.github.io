@@ -2,148 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Research Associate at Imperial College London</title>
-    <link>https://www.doc.ic.ac.uk/~smcdonag/publication/</link>
+    <link>https://smcdonagh.github.io/publication/</link>
     <description>Recent content in Publications on Research Associate at Imperial College London</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018 Steven McDonagh</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.doc.ic.ac.uk/~smcdonag/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smcdonagh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Context-Sensitive Super-Resolution for Fast Fetal Magnetic Resonance Imaging</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/sr_for_svr/</link>
+      <link>https://smcdonagh.github.io/publication/sr_for_svr/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/sr_for_svr/</guid>
+      <guid>https://smcdonagh.github.io/publication/sr_for_svr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/emma/</link>
+      <link>https://smcdonagh.github.io/publication/emma/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/emma/</guid>
+      <guid>https://smcdonagh.github.io/publication/emma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Slice-to-Volume Transformation in Presence of Arbitrary Subject Motion</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/regfree_align/</link>
+      <link>https://smcdonagh.github.io/publication/regfree_align/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/regfree_align/</guid>
+      <guid>https://smcdonagh.github.io/publication/regfree_align/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PVR: Patch-to-Volume Reconstruction for Large Area Motion Correction of Fetal MRI</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/pvr/</link>
+      <link>https://smcdonagh.github.io/publication/pvr/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/pvr/</guid>
+      <guid>https://smcdonagh.github.io/publication/pvr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noise Reduction on G‐Buffers for Monte Carlo Filtering</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/montecarlray_gbuffer_samp/</link>
+      <link>https://smcdonagh.github.io/publication/montecarlray_gbuffer_samp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/montecarlray_gbuffer_samp/</guid>
+      <guid>https://smcdonagh.github.io/publication/montecarlray_gbuffer_samp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Prior Design for Real-time Face Tracking</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/synprior_face/</link>
+      <link>https://smcdonagh.github.io/publication/synprior_face/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/synprior_face/</guid>
+      <guid>https://smcdonagh.github.io/publication/synprior_face/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-Time Multi-View Facial Capture with Synthetic Training</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/multiview_syn_train/</link>
+      <link>https://smcdonagh.github.io/publication/multiview_syn_train/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/multiview_syn_train/</guid>
+      <guid>https://smcdonagh.github.io/publication/multiview_syn_train/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Polynomial Rendering</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/adaptpolyrend/</link>
+      <link>https://smcdonagh.github.io/publication/adaptpolyrend/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/adaptpolyrend/</guid>
+      <guid>https://smcdonagh.github.io/publication/adaptpolyrend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fusing 100’s of 3D Point Clouds of Objects</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/fusing100sptclouds/</link>
+      <link>https://smcdonagh.github.io/publication/fusing100sptclouds/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/fusing100sptclouds/</guid>
+      <guid>https://smcdonagh.github.io/publication/fusing100sptclouds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laminar and Dorsoventral Molecular Organization of the Medial Entorhinal Cortex Revealed by Large-scale Anatomical Analysis of Gene Expression</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/mec_gene_expr/</link>
+      <link>https://smcdonagh.github.io/publication/mec_gene_expr/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/mec_gene_expr/</guid>
+      <guid>https://smcdonagh.github.io/publication/mec_gene_expr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive light source position estimation for augmented reality with an RGB-D camera</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/light_est_cavw/</link>
+      <link>https://smcdonagh.github.io/publication/light_est_cavw/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/light_est_cavw/</guid>
+      <guid>https://smcdonagh.github.io/publication/light_est_cavw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying semi-synchronised task farming to large-scale computer vision problems</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/semisync_taskfarm/</link>
+      <link>https://smcdonagh.github.io/publication/semisync_taskfarm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/semisync_taskfarm/</guid>
+      <guid>https://smcdonagh.github.io/publication/semisync_taskfarm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simultaneous registration of multi-view range images with adaptive kernel density estimation</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/kernel_dens_reg/</link>
+      <link>https://smcdonagh.github.io/publication/kernel_dens_reg/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/kernel_dens_reg/</guid>
+      <guid>https://smcdonagh.github.io/publication/kernel_dens_reg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Point Light Source Estimation based on Scenes Recorded by a RGB-D camera</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/light_est_bmvc/</link>
+      <link>https://smcdonagh.github.io/publication/light_est_bmvc/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/light_est_bmvc/</guid>
+      <guid>https://smcdonagh.github.io/publication/light_est_bmvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using 3D information for classification of non-melanoma skin cancer</title>
-      <link>https://www.doc.ic.ac.uk/~smcdonag/publication/3dinfo_skincancer/</link>
+      <link>https://smcdonagh.github.io/publication/3dinfo_skincancer/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://www.doc.ic.ac.uk/~smcdonag/publication/3dinfo_skincancer/</guid>
+      <guid>https://smcdonagh.github.io/publication/3dinfo_skincancer/</guid>
       <description></description>
     </item>
     
