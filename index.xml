@@ -11,18 +11,9 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Synthetic Prior Design for Real-time Face Tracking</title>
-      <link>https://smcdonagh.github.io/publication/_meta_awb/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://smcdonagh.github.io/publication/_meta_awb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synthetic Prior Design for Real-time Face Tracking</title>
+      <title>A Multi-Hypothesis Approach to Color Constancy</title>
       <link>https://smcdonagh.github.io/publication/_multi_hyp_awb/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/publication/_multi_hyp_awb/</guid>
       <description></description>
@@ -152,6 +143,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/publication/fusing100sptclouds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laminar and Dorsoventral Molecular Organization of the Medial Entorhinal Cortex Revealed by Large-scale Anatomical Analysis of Gene Expression</title>
+      <link>https://smcdonagh.github.io/publication/mec_gene_expr/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://smcdonagh.github.io/publication/mec_gene_expr/</guid>
       <description></description>
     </item>
     

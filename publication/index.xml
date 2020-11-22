@@ -13,18 +13,9 @@
     
     
     <item>
-      <title>Synthetic Prior Design for Real-time Face Tracking</title>
-      <link>https://smcdonagh.github.io/publication/_meta_awb/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://smcdonagh.github.io/publication/_meta_awb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synthetic Prior Design for Real-time Face Tracking</title>
+      <title>A Multi-Hypothesis Approach to Color Constancy</title>
       <link>https://smcdonagh.github.io/publication/_multi_hyp_awb/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/publication/_multi_hyp_awb/</guid>
       <description></description>
@@ -171,6 +162,15 @@
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/publication/3dinfo_skincancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formulating Camera-Adaptive Color Constancy as a Few-shot Meta-Learning Problem</title>
+      <link>https://smcdonagh.github.io/publication/_meta_awb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smcdonagh.github.io/publication/_meta_awb/</guid>
       <description></description>
     </item>
     
