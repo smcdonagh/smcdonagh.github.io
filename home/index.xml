@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018 Steven McDonagh</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://smcdonagh.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,11 @@
     <item>
       <title></title>
       <link>https://smcdonagh.github.io/home/about/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/home/about/</guid>
-      <description>Biography I am a Research Associate in the Biomedical Image Analysis Group, Imperial College London, working with Dr. Ben Glocker, Dr. Bernhard Kainz and Professor Daniel Rueckert.
-Previously I was a postdoc at Disney Research Zurich, working on Computer Vision and Machine Learning problems related to real-time facial image capture. I earned my PhD at the University of Edinburgh in the Institute of Perception, Action and Behaviour under the supervision of Prof.</description>
+      <description>Biography I am a Senior Research Scientist with Huawei Technologies R&amp;amp;D working on Computer Vision and Machine Learning problems. Current research directions include computational photography challenges, multi-task learning and meta-learning.
+Previously I have held postdoctoral research associate posts with the Biomedical Image Analysis Group, Imperial College London, working with Dr. Ben Glocker, Dr. Bernhard Kainz and Professor Daniel Rueckert and formerly with Disney Research Zurich, working on real-time facial image capture.</description>
     </item>
     
     <item>
@@ -45,6 +45,15 @@ Previously I was a postdoc at Disney Research Zurich, working on Computer Vision
  Teaching Assistant: Advanced Computer Vision (UG4/MSc), Edinburgh (2012–2014).
  Teaching Assistant: Introduction to Vision and Robotics (UG3), Edinburgh (2011-2012).
   </description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://smcdonagh.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://smcdonagh.github.io/home/posts/</guid>
+      <description></description>
     </item>
     
     <item>
