@@ -29,15 +29,6 @@
     </item>
     
     <item>
-      <title>Synthetic Prior Design for Real-time Face Tracking</title>
-      <link>https://smcdonagh.github.io/publication/_sterefo/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://smcdonagh.github.io/publication/_sterefo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Attention U-Net: Learning Where to Look for the Pancreas</title>
       <link>https://smcdonagh.github.io/publication/attention_unet/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
@@ -152,6 +143,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/publication/adaptpolyrend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusing 100’s of 3D Point Clouds of Objects</title>
+      <link>https://smcdonagh.github.io/publication/fusing100sptclouds/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://smcdonagh.github.io/publication/fusing100sptclouds/</guid>
       <description></description>
     </item>
     
