@@ -20,6 +20,24 @@
     </item>
     
     <item>
+      <title>Formulating Camera-Adaptive Color Constancy as a Few-shot Meta-Learning Problem</title>
+      <link>https://smcdonagh.github.io/publication/_meta_awb/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://smcdonagh.github.io/publication/_meta_awb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SteReFo: Efficient Image Refocusing with Stereo Vision</title>
+      <link>https://smcdonagh.github.io/publication/sterefo/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://smcdonagh.github.io/publication/sterefo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Attention U-Net: Learning Where to Look for the Pancreas</title>
       <link>https://smcdonagh.github.io/publication/attention_unet/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
@@ -134,24 +152,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/publication/adaptpolyrend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fusing 100’s of 3D Point Clouds of Objects</title>
-      <link>https://smcdonagh.github.io/publication/fusing100sptclouds/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://smcdonagh.github.io/publication/fusing100sptclouds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laminar and Dorsoventral Molecular Organization of the Medial Entorhinal Cortex Revealed by Large-scale Anatomical Analysis of Gene Expression</title>
-      <link>https://smcdonagh.github.io/publication/mec_gene_expr/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://smcdonagh.github.io/publication/mec_gene_expr/</guid>
       <description></description>
     </item>
     
