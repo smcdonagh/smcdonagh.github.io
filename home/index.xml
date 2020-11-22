@@ -7,25 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018 Steven McDonagh</copyright>
-    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://smcdonagh.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://smcdonagh.github.io/home/about/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://smcdonagh.github.io/home/about/</guid>
-      <description>Biography I am currently a Senior Research Scientist with Huawei Technologies working on Computer Vision and Machine Learning problems. Recent research directions include multi-task learning, computational photography and meta-learning.
-Previously I held postdoctoral posts with the Biomedical Image Analysis Group, Imperial College London, working with Dr. Ben Glocker, Dr. Bernhard Kainz and Professor Daniel Rueckert and, prior to that, with Disney Research Zurich working on real-time facial image capture. I earned my PhD at the University of Edinburgh in the Institute of Perception, Action and Behaviour under the supervision of Prof.</description>
-    </item>
-    
-    <item>
       <title>Selected publications</title>
       <link>https://smcdonagh.github.io/home/publications/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/home/publications/</guid>
       <description></description>
@@ -34,12 +24,11 @@ Previously I held postdoctoral posts with the Biomedical Image Analysis Group, I
     <item>
       <title>Teaching</title>
       <link>https://smcdonagh.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/home/teaching/</guid>
-      <description>I am a Teaching Assistant for the following course:
- CO-145 Mathematical Methods (UG1), Imperial College London (2017).
-  Previously, I have also taught:
+      <description>Previously, I have taught:
+ Teaching Assistant: Mathematical Methods CO-145 (UG1), Imperial College London (2017).
  Teaching Assistant: Machine Learning and Neural Computation (MSc), Imperial College London (2016).
  Guest lecturer: Advanced Computer Vision (UG4/MSc), Edinburgh (2014).
  Teaching Assistant: Advanced Computer Vision (UG4/MSc), Edinburgh (2012–2014).
