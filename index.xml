@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CroMo: Cross-Modal Learning for Monocular Depth Estimation</title>
+      <link>https://smcdonagh.github.io/publication/cromo/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smcdonagh.github.io/publication/cromo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Out-of-distribution Generalization of Probabilistic Image Modelling</title>
       <link>https://smcdonagh.github.io/publication/ood_neurips/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
@@ -143,15 +152,6 @@
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://smcdonagh.github.io/publication/synprior_face/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-Time Multi-View Facial Capture with Synthetic Training</title>
-      <link>https://smcdonagh.github.io/publication/multiview_syn_train/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://smcdonagh.github.io/publication/multiview_syn_train/</guid>
       <description></description>
     </item>
     
