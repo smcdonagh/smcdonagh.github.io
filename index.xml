@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images</title>
+      <link>https://smcdonagh.github.io/publication/residual_contrastive/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smcdonagh.github.io/publication/residual_contrastive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CroMo: Cross-Modal Learning for Monocular Depth Estimation</title>
       <link>https://smcdonagh.github.io/publication/cromo/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
@@ -144,15 +153,6 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://smcdonagh.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://smcdonagh.github.io/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
