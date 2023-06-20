@@ -39,11 +39,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://smcdonagh.github.io/publication/content_iqa/">
+  <link rel="canonical" href="https://smcdonagh.github.io/publication/learning_classnames/">
 
   
 
-  <title>Content-Diverse Comparisons improve IQA | Senior Research Scientist</title>
+  <title>Learning to Name Classes for Vision and Language Models | Senior Research Scientist</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -131,10 +131,10 @@
 
 
   <div class="container pub-title">
-    <h1 itemprop="name">Content-Diverse Comparisons improve IQA</h1>
+    <h1 itemprop="name">Learning to Name Classes for Vision and Language Models</h1>
     <span class="pub-authors" itemprop="author">
       
-      W Thong, J Pereira, S Parisot, A Leonardis, S McDonagh
+      S Parisot, Y Yang, S McDonagh
       
     </span>
     <span class="pull-right">
@@ -143,35 +143,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fcontent_iqa%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2flearning_classnames%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Content-Diverse%20Comparisons%20improve%20IQA&amp;url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fcontent_iqa%2f"
+         href="https://twitter.com/intent/tweet?text=Learning%20to%20Name%20Classes%20for%20Vision%20and%20Language%20Models&amp;url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2flearning_classnames%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fcontent_iqa%2f&amp;title=Content-Diverse%20Comparisons%20improve%20IQA"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2flearning_classnames%2f&amp;title=Learning%20to%20Name%20Classes%20for%20Vision%20and%20Language%20Models"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fcontent_iqa%2f&amp;title=Content-Diverse%20Comparisons%20improve%20IQA"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2flearning_classnames%2f&amp;title=Learning%20to%20Name%20Classes%20for%20Vision%20and%20Language%20Models"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Content-Diverse%20Comparisons%20improve%20IQA&amp;body=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fcontent_iqa%2f">
+         href="mailto:?subject=Learning%20to%20Name%20Classes%20for%20Vision%20and%20Language%20Models&amp;body=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2flearning_classnames%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -188,7 +188,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">Image quality assessment (IQA) forms a natural and often straightforward undertaking for humans, yet effective automation of the task remains highly challenging. Recent metrics from the deep learning community commonly compare image pairs during training to improve upon traditional metrics such as PSNR or SSIM. However, current comparisons ignore the fact that image content affects quality assessment as comparisons only occur between images of similar content. This restricts the diversity and number of image pairs that the model is exposed to during training. In this paper, we strive to enrich these comparisons with content diversity. Firstly, we relax comparison constraints, and compare pairs of images with differing content. This increases the variety of available comparisons. Secondly, we introduce listwise comparisons to provide a holistic view to the model. By including differentiable regularizers, derived from correlation coefficients, models can better adjust predicted scores relative to one another. Evaluation on multiple benchmarks, covering a wide range of distortions and image content, shows the effectiveness of our learning scheme for training image quality assessment models.</p>
+  <p class="pub-abstract" itemprop="text">Large scale vision and language models can achieve impressive zero-shot recognition performance by mapping class specific text queries to image content. Two distinct challenges that remain however, are high sensitivity to the choice of handcrafted class names that define queries, and the difficulty of adaptation to new, smaller datasets. Towards addressing these problems, we propose to leverage available data to learn, for each class, an optimal word embedding as a function of the visual content. By learning new word embeddings on an otherwise frozen model, we are able to retain zero-shot capabilities for new classes, easily adapt models to new datasets, and adjust potentially erroneous, non-descriptive or ambiguous class names. We show that our solution can easily be integrated in image classification and object detection pipelines, yields significant performance gains in multiple scenarios and provides insights into model biases and labelling errors.</p>
 
   
   <div class="row">
@@ -215,7 +215,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9">British Machine Vision Conference (BMVC) 2022</div>
+        <div class="col-xs-12 col-sm-9">Computer Vision and Pattern Recognition (CVPR) 2023, International Conference on</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -228,7 +228,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          November, 2022
+          June, 2023
         </div>
       </div>
     </div>
@@ -254,12 +254,16 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://bmvc2022.mpi-inf.mpg.de/0244.pdf">
+<a class="btn btn-primary btn-outline" href="https://openaccess.thecvf.com/content/CVPR2023/papers/Parisot_Learning_To_Name_Classes_for_Vision_and_Language_Models_CVPR_2023_paper.pdf">
   Paper
 </a>
 
-<a class="btn btn-primary btn-outline" href="https://bmvc2022.mpi-inf.mpg.de/0244_poster.pdf">
-  Poster
+<a class="btn btn-primary btn-outline" href="https://www.youtube.com/watch?v=O1nW_7Xjmys">
+  Video
+</a>
+
+<a class="btn btn-primary btn-outline" href="https://github.com/huawei-noah/">
+  Code coming soon!
 </a>
 
 
@@ -281,13 +285,10 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://smcdonagh.github.io/publication/residual_contrastive/"><span
-      aria-hidden="true">&larr;</span> Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images</a></li>
+    <li class="previous"><a href="https://smcdonagh.github.io/publication/content_iqa/"><span
+      aria-hidden="true">&larr;</span> Content-Diverse Comparisons improve IQA</a></li>
     
 
-    
-    <li class="next"><a href="https://smcdonagh.github.io/publication/learning_classnames/">Learning to Name Classes for Vision and Language Models <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
