@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Spread Flows for Manifold Modelling</title>
+      <link>https://smcdonagh.github.io/publication/spread_flows/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smcdonagh.github.io/publication/spread_flows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Content-Diverse Comparisons improve IQA</title>
       <link>https://smcdonagh.github.io/publication/content_iqa/</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
@@ -135,15 +144,6 @@
       <guid>https://smcdonagh.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Noise Reduction on G‐Buffers for Monte Carlo Filtering</title>
-      <link>https://smcdonagh.github.io/publication/montecarlray_gbuffer_samp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://smcdonagh.github.io/publication/montecarlray_gbuffer_samp/</guid>
-      <description></description>
     </item>
     
   </channel>

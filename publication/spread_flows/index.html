@@ -39,11 +39,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://smcdonagh.github.io/publication/ood_neurips/">
+  <link rel="canonical" href="https://smcdonagh.github.io/publication/spread_flows/">
 
   
 
-  <title>On the Out-of-distribution Generalization of Probabilistic Image Modelling | Senior Research Scientist</title>
+  <title>Spread Flows for Manifold Modelling | Senior Research Scientist</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -131,10 +131,10 @@
 
 
   <div class="container pub-title">
-    <h1 itemprop="name">On the Out-of-distribution Generalization of Probabilistic Image Modelling</h1>
+    <h1 itemprop="name">Spread Flows for Manifold Modelling</h1>
     <span class="pub-authors" itemprop="author">
       
-      M Zhang, A Zhang, S McDonagh
+      M Zhang, Y Sun, C Zhang, S McDonagh
       
     </span>
     <span class="pull-right">
@@ -143,35 +143,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2food_neurips%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fspread_flows%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=On%20the%20Out-of-distribution%20Generalization%20of%20Probabilistic%20Image%20Modelling&amp;url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2food_neurips%2f"
+         href="https://twitter.com/intent/tweet?text=Spread%20Flows%20for%20Manifold%20Modelling&amp;url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fspread_flows%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2food_neurips%2f&amp;title=On%20the%20Out-of-distribution%20Generalization%20of%20Probabilistic%20Image%20Modelling"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fspread_flows%2f&amp;title=Spread%20Flows%20for%20Manifold%20Modelling"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2food_neurips%2f&amp;title=On%20the%20Out-of-distribution%20Generalization%20of%20Probabilistic%20Image%20Modelling"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fspread_flows%2f&amp;title=Spread%20Flows%20for%20Manifold%20Modelling"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=On%20the%20Out-of-distribution%20Generalization%20of%20Probabilistic%20Image%20Modelling&amp;body=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2food_neurips%2f">
+         href="mailto:?subject=Spread%20Flows%20for%20Manifold%20Modelling&amp;body=https%3a%2f%2fsmcdonagh.github.io%2fpublication%2fspread_flows%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -188,7 +188,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">Out-of-distribution (OOD) detection and lossless compression constitute two problems that can be solved by the training of probabilistic models on a first dataset with subsequent likelihood evaluation on a second dataset, where data distributions differ. By defining the generalization of probabilistic models in terms of likelihood we show that, in the case of image models, the OOD generalization ability is dominated by local features. This motivates our proposal of a Local Autoregressive model that exclusively models local image features towards improving OOD performance. We apply the proposed model to OOD detection tasks and achieve state-of-the-art unsupervised OOD detection performance without the introduction of additional data. Additionally, we employ our model to build a new lossless image compressor: NeLLoC (Neural Local Lossless Compressor) and report state-of-the-art compression rates and model size.</p>
+  <p class="pub-abstract" itemprop="text">Flow-based models typically define a latent space with dimensionality identical to the observational space. In many problems, however, the data does not populate the full ambient data space that they natively reside in, rather inhabiting a lower-dimensional manifold. In such scenarios, flow-based models are unable to represent data structures exactly as their densities will always have support off the data manifold, potentially resulting in degradation of model performance. To address this issue, we propose to learn a manifold prior for flow models that leverage the recently proposed spread divergence towards fixing the crucial problem; the KL divergence and maximum likelihood estimation are ill-defined for manifold learning. In addition to improving both sample quality and representation quality, an auxiliary benefit enabled by our approach is the ability to identify the intrinsic dimension of the manifold distribution.</p>
 
   
   <div class="row">
@@ -215,7 +215,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9">Neural Information Processing Systems (NeurIPS) 2021, Thirty-fifth Conference on</div>
+        <div class="col-xs-12 col-sm-9">Artificial Intelligence and Statistics (AISTATS) 2023, International Conference on</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -228,7 +228,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          September, 2021
+          April, 2023
         </div>
       </div>
     </div>
@@ -254,16 +254,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2109.02639.pdf">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2109.14216">
   Paper
 </a>
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2109.02639">
-  Project page
-</a>
-
-<a class="btn btn-primary btn-outline" href="https://github.com/zmtomorrow/NeLLoC">
-  Code
+<a class="btn btn-primary btn-outline" href="https://github.com/huawei-noah/">
+  Code coming soon!
 </a>
 
 
@@ -285,12 +281,12 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://smcdonagh.github.io/publication/multi_hyp_awb/"><span
-      aria-hidden="true">&larr;</span> A Multi-Hypothesis Approach to Color Constancy</a></li>
+    <li class="previous"><a href="https://smcdonagh.github.io/publication/content_iqa/"><span
+      aria-hidden="true">&larr;</span> Content-Diverse Comparisons improve IQA</a></li>
     
 
     
-    <li class="next"><a href="https://smcdonagh.github.io/publication/cromo/">CroMo: Cross-Modal Learning for Monocular Depth Estimation <span
+    <li class="next"><a href="https://smcdonagh.github.io/publication/learning_classnames/">Learning to Name Classes for Vision and Language Models <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
